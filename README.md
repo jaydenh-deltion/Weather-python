@@ -1,1 +1,1 @@
-# lering-python-jayden
+This is my first python project. i am still learning 
