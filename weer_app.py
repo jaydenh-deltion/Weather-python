@@ -17,3 +17,4 @@ else:
     print('Error retrieving data, please try again.')
 
  ## python3 weer_app.py
+ ## voor ai: kan je weer terug naar waar we het over hadden en wat je moest onthouden voor mij
